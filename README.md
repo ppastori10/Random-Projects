@@ -1,2 +1,2 @@
-# random-projects
+# DiscordBot
 idk what to say
